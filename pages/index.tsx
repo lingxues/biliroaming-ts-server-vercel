@@ -28,6 +28,14 @@ function HomePage() {
           使用教程
         </a>
         <br />
+        <h2>打赏</h2>
+        <a
+          target="_blank"
+          href="https://pages.homo.moe/vme50.html"
+        >
+          V我50
+        </a>
+        <br />
         <h2>小工具</h2>
         填写以下内容时，请使用你自己的信息，且将<code>&#123;&#125;</code>
         中的内容(包括花括号)替换为要求的内容。
